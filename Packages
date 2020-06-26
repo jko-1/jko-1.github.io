@@ -1,0 +1,15 @@
+Package: com.macciti.lotus
+Name: Lotus
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: winterboard
+Description: A simple subtle theme
+Maintainer: iC <apt@macciti.com>
+Filename: Debs/
+Md5 : 60e6a520f8322b6feab1b5d4fb56f928
+SHA1 : 39354032daf978763446be55f38dfe4aece2e686
+SHA256 : 2ade8969b27c18c0879220d153d14b230fc75e1a12fd066f62a098666dfd7ab0
+Author: orenjiiiro <orenjiiiro@gmail.com>
+Sponsor: MacCiti <http://www.macciti.com/cydia/pages/sponsor.php>
+Section: Themes (SpringBoard)
+Depiction: http://www.macciti.com/pages/lotus/index.php

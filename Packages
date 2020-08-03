@@ -99,3 +99,20 @@ Author: julioverne
 Icon: file:///Library/PreferenceBundles/FionaSettings.bundle/icon@2x.png
 Depiction: https://super-devs.github.io/repo/
 
+Package: com.jko.snap
+Architecture: iphoneos-arm
+Version: 1.7.1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: /debs/com.yourepo.jko-l.snapbreakjko-l_1.7.1_iphoneos-arm.deb
+Size: 48978
+MD5sum: 845e6244f27ecc6041c2a5a10b79067a
+SHA1: 26a01584c9c0c98ef5737bb7eff9f3c2315ac11f
+SHA256: ac4aa2b855d919cc82798a9d9b508e539682cc6554a10922ac9fced0da961818
+Homepage: http://twitter.com/isuperdevs
+Description: Keep WiFi Always Connected
+Name:snapbreakjko
+Author: julioverne
+
+Depiction: https://super-devs.github.io/repo/
